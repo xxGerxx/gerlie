@@ -5,7 +5,7 @@
 }
 .cover{
     display: flex;
-    background-image: url("images/heart.gif");
+    background-image: url("images/fambg.jpg");
     background-repeat: repeat;
     justify-content: center;
     align-items: center;
